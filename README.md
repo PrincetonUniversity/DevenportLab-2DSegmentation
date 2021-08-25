@@ -1,6 +1,6 @@
-This is a private repo for Devenport Lab tools for computing various epithelial cell metrics. 
+Publication: New mouse models for high resolution and live imaging of planar cell polarity proteins in vivo.
 
-## CellViewer for 2D Segmentation of Images (Latest Release 1.9)
+## CellViewer for 2D Segmentation of Images (Latest Release 2.0)
 
 Documentation on running the 2D cell segmentation tool, CellViewer. 
 
