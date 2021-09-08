@@ -1,4 +1,4 @@
-Publication: New mouse models for high resolution and live imaging of planar cell polarity proteins in vivo.
+**Publication: New mouse models for high resolution and live imaging of planar cell polarity proteins in vivo.**
 
 ## CellViewer for 2D Segmentation of Images (Latest Release 2.0)
 
