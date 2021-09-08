@@ -6,7 +6,9 @@ Documentation on running the 2D cell segmentation tool, CellViewer.
 
 ### Download and Install
 
-URL: ```smb://lowrie.princeton.edu/molbio3/labs/devenportlab/DDLab_Members_Current/Abhishek/CellViewer```
+Windows URL: [CellViewer_WIN_v2.0](https://drive.google.com/file/d/16fJjIMktKopPmILgY82p6YsuzuEL0BWT/view?usp=sharing)
+
+BigSur MacOSX: [CellViewer_OSX_BigSur_v2.0](https://drive.google.com/file/d/109l4f3dDNicBigXdxgldC0V5oJKlOeFW/view?usp=sharing)
 
 1.	Download and unzip the files above based on the operating system of preference. 
 
@@ -49,5 +51,5 @@ After the first single image segmentation to fix the parameters, perform a batch
 
 3.	The “Process Log” will show when the segmentation is complete. 
 
-All the output is stored in a format compatible with Tissue Analyzer and can be opened in TA for further analysis. 
+All the output is stored in a format compatible with Tissue Analyzer(TA) and can be opened in TA for further analysis. 
 
