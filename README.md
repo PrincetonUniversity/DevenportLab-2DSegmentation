@@ -22,7 +22,7 @@ BigSur MacOSX: [CellViewer_OSX_BigSur_v2.0](https://drive.google.com/file/d/109l
 
 ### How to Run  
 
-Prerequisites: MATLAB > 2019b
+**Prerequisites: MATLAB > 2019b**
 
 Running a single image segmentation to pick the best Model and post-processing parameters: 
 
@@ -32,7 +32,7 @@ Running a single image segmentation to pick the best Model and post-processing p
 	chmod a+x test_single.exe
     ```
 
-2.  Double click and run ```CellViewer_App.mlapp```.
+2.  Double click and run ```CellViewer_App.mlapp```. It should open the GUI in MATLAB. 
 
 3.	In the selector text box below the whole “Batch Processing Panel” click the button “Browse Image”. It will open a file selection dialogue box. 
 
